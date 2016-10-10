@@ -1,0 +1,499 @@
+;KabupatenKota;Provinsi;Pulau;PusatPemerintahan;Kecamatan;KelurahanDesa
+0;Kabupaten Aceh Barat Daya;Aceh;Sumatera;Blangpidie;9;132
+1;Kabupaten Aceh Barat;Aceh;Sumatera;Meulaboh;12;321
+2;Kabupaten Aceh Besar;Aceh;Sumatera;Kota Jantho;23;592
+3;Kabupaten Aceh Jaya;Aceh;Sumatera;Calang;6;172
+4;Kabupaten Aceh Selatan;Aceh;Sumatera;Tapak Tuan;16;369
+5;Kabupaten Aceh Singkil;Aceh;Sumatera;Singkil;10;127
+6;Kabupaten Aceh Tamiang;Aceh;Sumatera;Karang Baru;12;128
+7;Kabupaten Aceh Tengah;Aceh;Sumatera;Takengon;14;268
+8;Kabupaten Aceh Tenggara;Aceh;Sumatera;Kutacane;11;164
+9;Kabupaten Aceh Timur;Aceh;Sumatera;Idi Rayeuk;21;580
+10;Kabupaten Aceh Utara;Aceh;Sumatera;Lhoksukon;27;1160
+11;Kabupaten Agam;Sumatera Barat;Sumatera;Lubuk Basung;16;82
+12;Kabupaten Alor;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Kalabahi;0;0
+13;Kabupaten Asahan;Sumatera Utara;Sumatera;Kisaran;0;0
+14;Kabupaten Asmat;Papua;Kepulauan Maluku;Agats;0;0
+15;Kabupaten Badung;Bali;Kepulauan Nusa Tenggara;Badung;0;0
+16;Kabupaten Balangan;Kalimantan Selatan;Kalimantan;Paringin;8;152
+17;Kabupaten Bandung Barat;Jawa Barat;Jawa;Ngamprah;0;0
+18;Kabupaten Bandung;Jawa Barat;Jawa;Soreang;0;0
+19;Kabupaten Banggai Kepulauan;Sulawesi Tengah;Sulawesi;Banggai;0;0
+20;Kabupaten Banggai;Sulawesi Tengah;Sulawesi;Luwuk;0;0
+21;Kabupaten Bangka Barat;Kepulauan Bangka Belitung;Sumatera;Toboali;0;0
+22;Kabupaten Bangka Selatan;Kepulauan Bangka Belitung;Sumatera;Mentok;0;0
+23;Kabupaten Bangka Tengah;Kepulauan Bangka Belitung;Sumatera;Koba;0;0
+24;Kabupaten Bangka;Kepulauan Bangka Belitung;Sumatera;Sungai Liat;0;0
+25;Kabupaten Bangkalan;Jawa Timur;Jawa;Bangkalan;0;0
+26;Kabupaten Bangli;Bali;Kepulauan Nusa Tenggara;Bangli;0;0
+27;Kabupaten Banjar;Kalimantan Selatan;Kalimantan;Martapura;19;288
+28;Kabupaten Banjarnegara;Jawa Tengah;Jawa;Banjarnegara;0;0
+29;Kabupaten Bantaeng;Sulawesi Selatan;Sulawesi;Bantaeng;0;0
+30;Kabupaten Bantul;Yogyakarta;Jawa;Kecamatan Bantul;0;0
+31;Kabupaten Banyuasin;Sumatera Selatan;Sumatera;Pangkalan Balai;0;0
+32;Kabupaten Banyumas;Jawa Tengah;Jawa;Purwokerto;0;0
+33;Kabupaten Banyuwangi;Jawa Timur;Jawa;Banyuwangi;0;0
+34;Kabupaten Barito Kuala;Kalimantan Selatan;Kalimantan;Marabahan;17;200
+35;Kabupaten Barito Selatan;Kalimantan Tengah;Kalimantan;Buntok;0;0
+36;Kabupaten Barito Timur;Kalimantan Tengah;Kalimantan;Tamiang;0;0
+37;Kabupaten Barito Utara;Kalimantan Tengah;Kalimantan;Muara Teweh;0;0
+38;Kabupaten Barru;Sulawesi Selatan;Sulawesi;Barru;0;0
+39;Kabupaten Batang;Jawa Tengah;Jawa;Batang;0;0
+40;Kabupaten Batanghari;Jambi;Sumatera;Muara Bulian;0;0
+41;Kabupaten Batubara;Sumatera Utara;Sumatera;Limapuluh;0;0
+42;Kabupaten Bekasi;Jawa Barat;Jawa;Cikarang;0;0
+43;Kabupaten Belitung Timur;Kepulauan Bangka Belitung;Sumatera;Manggar;0;0
+44;Kabupaten Belitung;Kepulauan Bangka Belitung;Sumatera;Tanjung Pandan;0;0
+45;Kabupaten Belu;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Atambua;0;0
+46;Kabupaten Bener Meriah;Aceh;Sumatera;Simpang Tiga Redelong;7;232
+47;Kabupaten Bengkalis;Riau;Sumatera;Bengkalis;0;0
+48;Kabupaten Bengkayang;Kalimantan Barat;Kalimantan;Bengkayang;0;0
+49;Kabupaten Bengkulu Selatan;Bengkulu;Sumatera;Kota Manna;0;0
+50;Kabupaten Bengkulu Tengah;Bengkulu;Sumatera;Karang Tinggi;0;0
+51;Kabupaten Bengkulu Utara;Bengkulu;Sumatera;Arga Makmur;0;0
+52;Kabupaten Berau;Kalimantan Timur;Kalimantan;Tanjungredep;0;0
+53;Kabupaten Biak Numfor;Papua;Kepulauan Maluku;Biak;0;0
+54;Kabupaten Bima;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Raba;0;0
+55;Kabupaten Bintan;Kepulauan Riau;Sumatera;Bandar Seri Bentan;0;0
+56;Kabupaten Bireuen;Aceh;Sumatera;Bireuen;17;514
+57;Kabupaten Blitar;Jawa Timur;Jawa;Kanigoro;0;0
+58;Kabupaten Blora;Jawa Tengah;Jawa;Blora;0;0
+59;Kabupaten Boalemo;Gorontalo;Sulawesi;Marisa/Tilamuta;0;0
+60;Kabupaten Bogor;Jawa Barat;Jawa;Cibinong;0;0
+61;Kabupaten Bojonegoro;Jawa Timur;Jawa;Bojonegoro;0;0
+62;Kabupaten Bolaang Mongondow Selatan;Sulawesi Utara;Sulawesi;Bolaang Uki;0;0
+63;Kabupaten Bolaang Mongondow Timur;Sulawesi Utara;Sulawesi;Tutuyan;0;0
+64;Kabupaten Bolaang Mongondow Utara;Sulawesi Utara;Sulawesi;Boroko;0;0
+65;Kabupaten Bolaang Mongondow;Sulawesi Utara;Sulawesi;Kotamobagu;0;0
+66;Kabupaten Bombana;Sulawesi Tenggara;Sulawesi;Rumbia;0;0
+67;Kabupaten Bondowoso;Jawa Timur;Jawa;Bondowoso;0;0
+68;Kabupaten Bone Bolango;Gorontalo;Sulawesi;Suwawa;0;0
+69;Kabupaten Bone;Sulawesi Selatan;Sulawesi;Watampone;0;0
+70;Kabupaten Boven Digoel;Papua;Kepulauan Maluku;Tanah Merah;0;0
+71;Kabupaten Boyolali;Jawa Tengah;Jawa;Boyolali;0;0
+72;Kabupaten Brebes;Jawa Tengah;Jawa;Brebes, Bumiayu;0;0
+73;Kabupaten Buleleng;Bali;Kepulauan Nusa Tenggara;Singaraja;0;0
+74;Kabupaten Bulukumba;Sulawesi Selatan;Sulawesi;Bulukumba;0;0
+75;Kabupaten Bulungan;Kalimantan Utara;Kalimantan;Tanjungselor;0;0
+76;Kabupaten Bungo;Jambi;Sumatera;Muara Bungo;0;0
+77;Kabupaten Buol;Sulawesi Tengah;Sulawesi;Buol;0;0
+78;Kabupaten Buru Selatan;Maluku;Kepulauan Maluku;Namrole;0;0
+79;Kabupaten Buru;Maluku;Kepulauan Maluku;Namlea;0;0
+80;Kabupaten Buton Utara;Sulawesi Tenggara;Sulawesi;Buranga;0;0
+81;Kabupaten Buton;Sulawesi Tenggara;Sulawesi;Pasarwajo;0;0
+82;Kabupaten Ciamis;Jawa Barat;Jawa;Ciamis;0;0
+83;Kabupaten Cianjur;Jawa Barat;Jawa;Cianjur;0;0
+84;Kabupaten Cilacap;Jawa Tengah;Jawa;Cilacap;0;0
+85;Kabupaten Cirebon;Jawa Barat;Jawa;Sumber;0;0
+86;Kabupaten Dairi;Sumatera Utara;Sumatera;Sidikalang;0;0
+87;Kabupaten Deiyai;Papua;Kepulauan Maluku;Tigi;0;0
+88;Kabupaten Deli Serdang;Sumatera Utara;Sumatera;Lubuk Pakam;0;0
+89;Kabupaten Demak;Jawa Tengah;Jawa;Demak;0;0
+90;Kabupaten Dharmasraya;Sumatera Barat;Sumatera;Pulau Punjung;4;109
+91;Kabupaten Dogiyai;Papua;Kepulauan Maluku;Kigamani;0;0
+92;Kabupaten Dompu;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Dompu;0;0
+93;Kabupaten Donggala;Sulawesi Tengah;Sulawesi;Donggala;0;0
+94;Kabupaten Empat Lawang;Sumatera Selatan;Sumatera;Tebing Tinggi;0;0
+95;Kabupaten Ende;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Ende;0;0
+96;Kabupaten Enrekang;Sulawesi Selatan;Sulawesi;Enrekang;0;0
+97;Kabupaten Fakfak;Papua Barat;Kepulauan Maluku;Fakfak;0;0
+98;Kabupaten Flores Timur;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Larantuka;0;0
+99;Kabupaten Garut;Jawa Barat;Jawa;Garut;0;0
+100;Kabupaten Gayo Lues;Aceh;Sumatera;Blang Kejeren;11;97
+101;Kabupaten Gianyar;Bali;Kepulauan Nusa Tenggara;Gianyar;0;0
+102;Kabupaten Gorontalo Utara;Gorontalo;Sulawesi;Kwandang;0;0
+103;Kabupaten Gorontalo;Gorontalo;Sulawesi;Gorontalo;0;0
+104;Kabupaten Gowa;Sulawesi Selatan;Sulawesi;Sungguminasa;0;0
+105;Kabupaten Gresik;Jawa Timur;Jawa;Gresik;0;0
+106;Kabupaten Grobogan;Jawa Tengah;Jawa;Purwodadi;0;0
+107;Kabupaten Gunung Kidul;Yogyakarta;Jawa;Kecamatan Wonosari;0;0
+108;Kabupaten Gunung Mas;Kalimantan Tengah;Kalimantan;Kuala Kurun;0;0
+109;Kabupaten Halmahera Barat;Maluku Utara;Kepulauan Maluku;Jailolo;0;0
+110;Kabupaten Halmahera Selatan;Maluku Utara;Kepulauan Maluku;Labuha;0;0
+111;Kabupaten Halmahera Tengah;Maluku Utara;Kepulauan Maluku;Weda;0;0
+112;Kabupaten Halmahera Timur;Maluku Utara;Kepulauan Maluku;Maba;0;0
+113;Kabupaten Halmahera Utara;Maluku Utara;Kepulauan Maluku;Tobelo;0;0
+114;Kabupaten Hulu Sungai Selatan;Kalimantan Selatan;Kalimantan;Kandangan;11;148
+115;Kabupaten Hulu Sungai Tengah;Kalimantan Selatan;Kalimantan;Barabai;11;169
+116;Kabupaten Hulu Sungai Utara;Kalimantan Selatan;Kalimantan;Amuntai;10;219
+117;Kabupaten Humbang Hasundutan;Sumatera Utara;Sumatera;Dolok Sanggul;0;0
+118;Kabupaten Indragiri Hilir;Riau;Sumatera;Tembilahan;0;0
+119;Kabupaten Indragiri Hulu;Riau;Sumatera;Rengat;0;0
+120;Kabupaten Indramayu;Jawa Barat;Jawa;Indramayu;0;0
+121;Kabupaten Intan Jaya;Papua;Kepulauan Maluku;Sugapa;0;0
+122;Kabupaten Jayapura;Papua;Kepulauan Maluku;Sentani;0;0
+123;Kabupaten Jayawijaya;Papua;Kepulauan Maluku;Wamena;0;0
+124;Kabupaten Jember;Jawa Timur;Jawa;Jember;0;0
+125;Kabupaten Jembrana;Bali;Kepulauan Nusa Tenggara;Negara;0;0
+126;Kabupaten Jeneponto;Sulawesi Selatan;Sulawesi;Jeneponto;0;0
+127;Kabupaten Jepara;Jawa Tengah;Jawa;Jepara;0;0
+128;Kabupaten Jombang;Jawa Timur;Jawa;Jombang;0;0
+129;Kabupaten Kaimana;Papua Barat;Kepulauan Maluku;Kaimana;0;0
+130;Kabupaten Kampar;Riau;Sumatera;Bangkinang;0;0
+131;Kabupaten Kapuas Hulu;Kalimantan Barat;Kalimantan;Putussibau;0;0
+132;Kabupaten Kapuas;Kalimantan Tengah;Kalimantan;Kuala Kapuas;0;0
+133;Kabupaten Karanganyar;Jawa Tengah;Jawa;Karanganyar;0;0
+134;Kabupaten Karangasem;Bali;Kepulauan Nusa Tenggara;Karangasem;0;0
+135;Kabupaten Karawang;Jawa Barat;Jawa;Karawang;0;0
+136;Kabupaten Karimun;Kepulauan Riau;Sumatera;Tanjung Balai Karimun;0;0
+137;Kabupaten Karo;Sumatera Utara;Sumatera;Kabanjahe;0;0
+138;Kabupaten Katingan;Kalimantan Tengah;Kalimantan;Kasongan;0;0
+139;Kabupaten Kaur;Bengkulu;Sumatera;Bintuhan;0;0
+140;Kabupaten Kayong Utara;Kalimantan Barat;Kalimantan;Sukadana;0;0
+141;Kabupaten Kebumen;Jawa Tengah;Jawa;Kebumen;0;0
+142;Kabupaten Kediri;Jawa Timur;Jawa;Kediri;0;0
+143;Kabupaten Keerom;Papua;Kepulauan Maluku;Waris;0;0
+144;Kabupaten Kendal;Jawa Tengah;Jawa;Kendal;0;0
+145;Kabupaten Kepahiang;Bengkulu;Sumatera;Kepahiang;0;0
+146;Kabupaten Kepulauan Anambas;Kepulauan Riau;Sumatera;Terempa;0;0
+147;Kabupaten Kepulauan Aru;Maluku;Kepulauan Maluku;Dobo;0;0
+148;Kabupaten Kepulauan Mentawai;Sumatera Barat;Sumatera;Tuapejat;4;43
+149;Kabupaten Kepulauan Meranti;Riau;Sumatera;Selatpanjang;0;0
+150;Kabupaten Kepulauan Sangihe;Sulawesi Utara;Sulawesi;Tahuna;0;0
+151;Kabupaten Kepulauan Selayar;Sulawesi Selatan;Sulawesi;Benteng;0;0
+152;Kabupaten Administrasi Kepulauan Seribu;Jakarta;Jawa;Pulau Pramuka;0;0
+153;Kabupaten Kepulauan Siau Tagulandang Biaro;Sulawesi Utara;Sulawesi;Ondong Siau;0;0
+154;Kabupaten Kepulauan Sula;Maluku Utara;Kepulauan Maluku;Sanana;0;0
+155;Kabupaten Kepulauan Talaud;Sulawesi Utara;Sulawesi;Melonguane;0;0
+156;Kabupaten Kepulauan Yapen;Papua;Kepulauan Maluku;Serui;0;0
+157;Kabupaten Kerinci;Jambi;Sumatera;Sungaipenuh;0;0
+158;Kabupaten Ketapang;Kalimantan Barat;Kalimantan;Ketapang;0;0
+159;Kabupaten Klaten;Jawa Tengah;Jawa;Klaten;0;0
+160;Kabupaten Klungkung;Bali;Kepulauan Nusa Tenggara;Klungkung;0;0
+161;Kabupaten Kolaka Utara;Sulawesi Tenggara;Sulawesi;Lasusua;0;0
+162;Kabupaten Kolaka;Sulawesi Tenggara;Sulawesi;Kolaka;0;0
+163;Kabupaten Konawe Selatan;Sulawesi Tenggara;Sulawesi;Andolo;0;0
+164;Kabupaten Konawe Utara;Sulawesi Tenggara;Sulawesi;Wanggudu;0;0
+165;Kabupaten Konawe;Sulawesi Tenggara;Sulawesi;Unaaha;0;0
+166;Kabupaten Kotabaru;Kalimantan Selatan;Kalimantan;Kotabaru;20;197
+167;Kabupaten Kotawaringin Barat;Kalimantan Tengah;Kalimantan;Pangkalan Bun;0;0
+168;Kabupaten Kotawaringin Timur;Kalimantan Tengah;Kalimantan;Sampit;0;0
+169;Kabupaten Kuantan Singingi;Riau;Sumatera;Taluk Kuantan;0;0
+170;Kabupaten Kubu Raya;Kalimantan Barat;Kalimantan;Sungai Raya;0;0
+171;Kabupaten Kudus;Jawa Tengah;Jawa;Kudus;0;0
+172;Kabupaten Kulon Progo;Yogyakarta;Jawa;Kecamatan Wates;0;0
+173;Kabupaten Kuningan;Jawa Barat;Jawa;Kuningan;0;0
+174;Kabupaten Kupang;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Kupang;0;0
+175;Kabupaten Kutai Barat;Kalimantan Timur;Kalimantan;Sendawar;0;0
+176;Kabupaten Kutai Kartanegara;Kalimantan Timur;Kalimantan;Tenggarong;0;0
+177;Kabupaten Kutai Timur;Kalimantan Timur;Kalimantan;Sangatta;0;0
+178;Kabupaten Labuhanbatu Selatan;Sumatera Utara;Sumatera;Kota Pinang;0;0
+179;Kabupaten Labuhanbatu Utara;Sumatera Utara;Sumatera;Aek Kanopan;0;0
+180;Kabupaten Labuhanbatu;Sumatera Utara;Sumatera;Rantau Prapat;0;0
+181;Kabupaten Lahat;Sumatera Selatan;Sumatera;Lahat;0;0
+182;Kabupaten Lamandau;Kalimantan Tengah;Kalimantan;Nanga Bulik;0;0
+183;Kabupaten Lamongan;Jawa Timur;Jawa;Lamongan;0;0
+184;Kabupaten Lampung Barat;Lampung;Sumatera;Kota Liwa;0;0
+185;Kabupaten Lampung Selatan;Lampung;Sumatera;Kalianda (kota);0;0
+186;Kabupaten Lampung Tengah;Lampung;Sumatera;Gunung Sugih;0;0
+187;Kabupaten Lampung Timur;Lampung;Sumatera;Sukadana;0;0
+188;Kabupaten Lampung Utara;Lampung;Sumatera;Kotabumi;0;0
+189;Kabupaten Landak;Kalimantan Barat;Kalimantan;Ngabang;0;0
+190;Kabupaten Langkat;Sumatera Utara;Sumatera;Stabat;0;0
+191;Kabupaten Lanny Jaya;Papua;Kepulauan Maluku;Tiom;0;0
+192;Kabupaten Lebak;Banten;Jawa;Rangkasbitung;0;0
+193;Kabupaten Lebong;Bengkulu;Sumatera;Muara Aman;0;0
+194;Kabupaten Lembata;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Lewoleba;0;0
+195;Kabupaten Lima Puluh Kota;Sumatera Barat;Sumatera;Sarilamak;13;180
+196;Kabupaten Lingga;Kepulauan Riau;Sumatera;Daik, ;0;0
+197;Kabupaten Lombok Barat;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Mataram;0;0
+198;Kabupaten Lombok Tengah;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Praya;0;0
+199;Kabupaten Lombok Timur;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Selong;0;0
+200;Kabupaten Lombok Utara;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Tanjung;0;0
+201;Kabupaten Lumajang;Jawa Timur;Jawa;Lumajang;0;0
+202;Kabupaten Luwu Timur;Sulawesi Selatan;Sulawesi;Malili;0;0
+203;Kabupaten Luwu Utara;Sulawesi Selatan;Sulawesi;Masamba;0;0
+204;Kabupaten Luwu;Sulawesi Selatan;Sulawesi;Belopa;0;0
+205;Kabupaten Madiun;Jawa Timur;Jawa;Madiun;0;0
+206;Kabupaten Magelang;Jawa Tengah;Jawa;Kota Mungkid;0;0
+207;Kabupaten Mahakam Ulu;Kalimantan Timur;Kalimantan;Batu Bulan;0;0
+208;Kabupaten Majalengka;Jawa Barat;Jawa;Majalengka;0;0
+209;Kabupaten Majalengka;Jawa Barat;Jawa;Majalengka;0;0
+210;Kabupaten Majene;Sulawesi Barat;Sulawesi;Majene;0;0
+211;Kabupaten Malang;Jawa Timur;Jawa;Kepanjen;0;0
+212;Kabupaten Malinau;Kalimantan Utara;Kalimantan;Malinau;0;0
+213;Kabupaten Maluku Barat Daya;Maluku;Kepulauan Maluku;Wonreli (de facto);0;0
+214;Kabupaten Maluku Tengah;Maluku;Kepulauan Maluku;Masohi;0;0
+215;Kabupaten Maluku Tenggara Barat;Maluku;Kepulauan Maluku;Saumlaki;0;0
+216;Kabupaten Maluku Tenggara;Maluku;Kepulauan Maluku;Langgur;0;0
+217;Kabupaten Mamasa;Sulawesi Barat;Sulawesi;Mamasa;0;0
+218;Kabupaten Mamberamo Raya;Papua;Kepulauan Maluku;Burmeso;0;0
+219;Kabupaten Mamberamo Tengah;Papua;Kepulauan Maluku;Kobakma;0;0
+220;Kabupaten Mamuju Utara;Sulawesi Barat;Sulawesi;Pasangkayu;0;0
+221;Kabupaten Mamuju;Sulawesi Barat;Sulawesi;Mamuju;0;0
+222;Kabupaten Mandailing Natal;Sumatera Utara;Sumatera;Panyabungan;0;0
+223;Kabupaten Manggarai Barat;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Labuan Bajo;0;0
+224;Kabupaten Manggarai Timur;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Borong;0;0
+225;Kabupaten Manggarai;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Ruteng;0;0
+226;Kabupaten Manokwari;Papua Barat;Kepulauan Maluku;Manokwari;0;0
+227;Kabupaten Mappi;Papua;Kepulauan Maluku;Kepi;0;0
+228;Kabupaten Maros;Sulawesi Selatan;Sulawesi;Turikale;0;0
+229;Kabupaten Maybrat;Papua Barat;Kepulauan Maluku;Kumurkek;0;0
+230;Kabupaten Melawi;Kalimantan Barat;Kalimantan;Nanga Pinoh;0;0
+231;Kabupaten Merangin;Jambi;Sumatera;Bangko;0;0
+232;Kabupaten Merauke;Papua;Kepulauan Maluku;Merauke;0;0
+233;Kabupaten Mesuji;Lampung;Sumatera;Mesuji;0;0
+234;Kabupaten Mimika;Papua;Kepulauan Maluku;Timika;0;0
+235;Kabupaten Minahasa Selatan;Sulawesi Utara;Sulawesi;Amurang;0;0
+236;Kabupaten Minahasa Tenggara;Sulawesi Utara;Sulawesi;Ratahan;0;0
+237;Kabupaten Minahasa Utara;Sulawesi Utara;Sulawesi;Airmadidi;0;0
+238;Kabupaten Minahasa;Sulawesi Utara;Sulawesi;Tondano;0;0
+239;Kabupaten Mojokerto;Jawa Timur;Jawa;Mojokerto;0;0
+240;Kabupaten Morowali;Sulawesi Tengah;Sulawesi;Bungku;0;0
+241;Kabupaten Muara Enim;Sumatera Selatan;Sumatera;Muara Enim;0;0
+242;Kabupaten Muaro Jambi;Jambi;Sumatera;Sengeti;0;0
+243;Kabupaten Mukomuko;Bengkulu;Sumatera;Mukomuko;0;0
+244;Kabupaten Muna;Sulawesi Tenggara;Sulawesi;Raha;0;0
+245;Kabupaten Murung Raya;Kalimantan Tengah;Kalimantan;Purukcahu;0;0
+246;Kabupaten Musi Banyuasin;Sumatera Selatan;Sumatera;Sekayu;0;0
+247;Kabupaten Musi Rawas;Sumatera Selatan;Sumatera;Muara Beliti Baru;0;0
+248;Kabupaten Nabire;Papua;Kepulauan Maluku;Nabire;0;0
+249;Kabupaten Nagan Raya;Aceh;Sumatera;Suka Makmue;5;213
+250;Kabupaten Nagekeo;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Mbay;0;0
+251;Kabupaten Natuna;Kepulauan Riau;Sumatera;Ranai, ;0;0
+252;Kabupaten Nduga;Papua;Kepulauan Maluku;Kenyam;0;0
+253;Kabupaten Ngada;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Bajawa;0;0
+254;Kabupaten Nganjuk;Jawa Timur;Jawa;Nganjuk;0;0
+255;Kabupaten Ngawi;Jawa Timur;Jawa;Ngawi;0;0
+256;Kabupaten Nias Barat;Sumatera Utara;Sumatera;Lahomi;0;0
+257;Kabupaten Nias Selatan;Sumatera Utara;Sumatera;Teluk Dalam;0;0
+258;Kabupaten Nias Utara;Sumatera Utara;Sumatera;Lotu;0;0
+259;Kabupaten Nias;Sumatera Utara;Sumatera;Gunung Sitoli;0;0
+260;Kabupaten Nunukan;Kalimantan Utara;Kalimantan;Nunukan;0;0
+261;Kabupaten Ogan Ilir;Sumatera Selatan;Sumatera;Indralaya;0;0
+262;Kabupaten Ogan Komering Ilir;Sumatera Selatan;Sumatera;Kota Kayu Agung;0;0
+263;Kabupaten Ogan Komering Ulu Selatan;Sumatera Selatan;Sumatera;Muaradua;0;0
+264;Kabupaten Ogan Komering Ulu Timur;Sumatera Selatan;Sumatera;Martapura;0;0
+265;Kabupaten Ogan Komering Ulu;Sumatera Selatan;Sumatera;Baturaja;0;0
+266;Kabupaten Pacitan;Jawa Timur;Jawa;Pacitan;0;0
+267;Kabupaten Padang Lawas Utara;Sumatera Utara;Sumatera;Gunung Tua;0;0
+268;Kabupaten Padang Lawas;Sumatera Utara;Sumatera;Sibuhuan;0;0
+269;Kabupaten Padang Pariaman;Sumatera Barat;Sumatera;Parit Malintang;17;0
+270;Kabupaten Pakpak Bharat;Sumatera Utara;Sumatera;Salak;0;0
+271;Kabupaten Pamekasan;Jawa Timur;Jawa;Pamekasan;0;0
+272;Kabupaten Pandeglang;Banten;Jawa;Pandeglang;0;0
+273;Kabupaten Pangkajene dan Kepulauan;Sulawesi Selatan;Sulawesi;Pangkajene;0;0
+274;Kabupaten Paniai;Papua;Kepulauan Maluku;Enarotali;0;0
+275;Kabupaten Parigi Moutong;Sulawesi Tengah;Sulawesi;Parigi;0;0
+276;Kabupaten Pasaman Barat;Sumatera Barat;Sumatera;Simpang Ampek;11;0
+277;Kabupaten Pasaman;Sumatera Barat;Sumatera;Lubuk Sikaping;12;211
+278;Kabupaten Paser;Kalimantan Timur;Kalimantan;Tanah Grogot;0;0
+279;Kabupaten Pasuruan;Jawa Timur;Jawa;Pasuruan;0;0
+280;Kabupaten Pati;Jawa Tengah;Jawa;Pati;0;0
+281;Kabupaten Pegunungan Bintang;Papua;Kepulauan Maluku;Oksibil;0;0
+282;Kabupaten Pekalongan;Jawa Tengah;Jawa;Kajen;0;0
+283;Kabupaten Pelalawan;Riau;Sumatera;Pangkalan Kerinci;0;0
+284;Kabupaten Pemalang;Jawa Tengah;Jawa;Pemalang;0;0
+285;Kabupaten Penajam Paser Utara;Kalimantan Timur;Kalimantan;Penajam;0;0
+286;Kabupaten Pesawaran;Lampung;Sumatera;Gedong Tataan;0;0
+287;Kabupaten Pesisir Selatan;Sumatera Barat;Sumatera;Painan;12;76
+288;Kabupaten Pidie Jaya;Aceh;Sumatera;Meureudu;8;215
+289;Kabupaten Pidie;Aceh;Sumatera;Sigli;22;946
+290;Kabupaten Pinrang;Sulawesi Selatan;Sulawesi;Pinrang;0;0
+291;Kabupaten Pohuwato;Gorontalo;Sulawesi;Marisa;0;0
+292;Kabupaten Polewali Mandar;Sulawesi Barat;Sulawesi;Polewali;0;0
+293;Kabupaten Ponorogo;Jawa Timur;Jawa;Ponorogo;0;0
+294;Kabupaten Mempawah;Kalimantan Barat;Kalimantan;Mempawah;0;0
+295;Kabupaten Poso;Sulawesi Tengah;Sulawesi;Poso;0;0
+296;Kabupaten Pringsewu;Lampung;Sumatera;Pringsewu;0;0
+297;Kabupaten Probolinggo;Jawa Timur;Jawa;Kraksaan;0;0
+298;Kabupaten Pulang Pisau;Kalimantan Tengah;Kalimantan;Pulang Pisau;0;0
+299;Kabupaten Pulau Morotai;Maluku Utara;Kepulauan Maluku;Morotai Selatan;0;0
+300;Kabupaten Puncak Jaya;Papua;Kepulauan Maluku;Kotamulia;0;0
+301;Kabupaten Puncak;Papua;Kepulauan Maluku;Ilaga;0;0
+302;Kabupaten Purbalingga;Jawa Tengah;Jawa;Purbalingga;0;0
+303;Kabupaten Purwakarta;Jawa Barat;Jawa;Purwakarta;0;0
+304;Kabupaten Purworejo;Jawa Tengah;Jawa;Purworejo;0;0
+305;Kabupaten Raja Ampat;Papua Barat;Kepulauan Maluku;Waisai;0;0
+306;Kabupaten Rejang Lebong;Bengkulu;Sumatera;Curup;0;0
+307;Kabupaten Rembang;Jawa Tengah;Jawa;Rembang;0;0
+308;Kabupaten Rokan Hilir;Riau;Sumatera;Ujung Tanjung;0;0
+309;Kabupaten Rokan Hulu;Riau;Sumatera;Pasir Pengaraian;0;0
+310;Kabupaten Rote Ndao;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Baa;0;0
+311;Kabupaten Sabu Raijua;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Seba;0;0
+312;Kabupaten Sambas;Kalimantan Barat;Kalimantan;Sambas;0;0
+313;Kabupaten Samosir;Sumatera Utara;Sumatera;Pangururan;0;0
+314;Kabupaten Sampang;Jawa Timur;Jawa;Sampang;0;0
+315;Kabupaten Sanggau;Kalimantan Barat;Kalimantan;Sanggau;0;0
+316;Kabupaten Sarmi;Papua;Kepulauan Maluku;Sarmi;0;0
+317;Kabupaten Sarolangun;Jambi;Sumatera;Sarolangun;0;0
+318;Kabupaten Sekadau;Kalimantan Barat;Kalimantan;Sekadau;0;0
+319;Kabupaten Seluma;Bengkulu;Sumatera;Tais;0;0
+320;Kabupaten Semarang;Jawa Tengah;Jawa;Ungaran;0;0
+321;Kabupaten Seram Bagian Barat;Maluku;Kepulauan Maluku;Piru (de facto);0;0
+322;Kabupaten Seram Bagian Timur;Maluku;Kepulauan Maluku;Bula (de facto);0;0
+323;Kabupaten Serang;Banten;Jawa;Ciruas;0;0
+324;Kabupaten Serdang Bedagai;Sumatera Utara;Sumatera;Sei Rampah;0;0
+325;Kabupaten Seruyan;Kalimantan Tengah;Kalimantan;Kuala Pembuang;0;0
+326;Kabupaten Siak;Riau;Sumatera;Siak Sri Indrapura;0;0
+327;Kabupaten Sidenreng Rappang;Sulawesi Selatan;Sulawesi;Pangkajene;0;0
+328;Kabupaten Sidoarjo;Jawa Timur;Jawa;Sidoarjo;0;0
+329;Kabupaten Sigi;Sulawesi Tengah;Sulawesi;Sigi Biromaru;0;0
+330;Kabupaten Sijunjung;Sumatera Barat;Sumatera;Muaro Sijunjung;8;0
+331;Kabupaten Sikka;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Maumere;0;0
+332;Kabupaten Simalungun;Sumatera Utara;Sumatera;Raya;0;0
+333;Kabupaten Simeulue;Aceh;Sumatera;Sinabang;8;135
+334;Kabupaten Sinjai;Sulawesi Selatan;Sulawesi;Sinjai;0;0
+335;Kabupaten Sintang;Kalimantan Barat;Kalimantan;Sintang;0;0
+336;Kabupaten Situbondo;Jawa Timur;Jawa;Situbondo;0;0
+337;Kabupaten Sleman;Yogyakarta;Jawa;Kecamatan Sleman;0;0
+338;Kabupaten Solok Selatan;Sumatera Barat;Sumatera;Padang Aro;7;0
+339;Kabupaten Solok;Sumatera Barat;Sumatera;Arosuka;14;0
+340;Kabupaten Soppeng;Sulawesi Selatan;Sulawesi;Watan Soppeng;0;0
+341;Kabupaten Sorong Selatan;Papua Barat;Kepulauan Maluku;Teminabuan;0;0
+342;Kabupaten Sorong;Papua Barat;Kepulauan Maluku;Sorong;0;0
+343;Kabupaten Sragen;Jawa Tengah;Jawa;Sragen;0;0
+344;Kabupaten Subang;Jawa Barat;Jawa;Subang;0;0
+345;Kabupaten Sukabumi;Jawa Barat;Jawa;Pelabuanratu;0;0
+346;Kabupaten Sukamara;Kalimantan Tengah;Kalimantan;Sukamara;0;0
+347;Kabupaten Sukoharjo;Jawa Tengah;Jawa;Sukoharjo;0;0
+348;Kabupaten Sumba Barat Daya;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Tambolaka;0;0
+349;Kabupaten Sumba Barat;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Waikabubak;0;0
+350;Kabupaten Sumba Tengah;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Waibakul;0;0
+351;Kabupaten Sumba Timur;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Waingapu;0;0
+352;Kabupaten Sumbawa Barat;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Taliwang;0;0
+353;Kabupaten Sumbawa;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;Sumbawa Besar;0;0
+354;Kabupaten Sumedang;Jawa Barat;Jawa;Sumedang;0;0
+355;Kabupaten Sumenep;Jawa Timur;Jawa;Sumenep;0;0
+356;Kabupaten Supiori;Papua;Kepulauan Maluku;Sorendiweri;0;0
+357;Kabupaten Tabalong;Kalimantan Selatan;Kalimantan;Tanjung;12;131
+358;Kabupaten Tabanan;Bali;Kepulauan Nusa Tenggara;Tabanan;0;0
+359;Kabupaten Takalar;Sulawesi Selatan;Sulawesi;Pattalassang;0;0
+360;Kabupaten Tambrauw;Papua Barat;Kepulauan Maluku;Fef;0;0
+361;Kabupaten Tana Tidung;Kalimantan Utara;Kalimantan;Tideng Pale;0;0
+362;Kabupaten Tana Toraja;Sulawesi Selatan;Sulawesi;Makale;0;0
+363;Kabupaten Tanah Bumbu;Kalimantan Selatan;Kalimantan;Batulicin;10;135
+364;Kabupaten Tanah Datar;Sumatera Barat;Sumatera;Batusangkar;14;0
+365;Kabupaten Tanah Laut;Kalimantan Selatan;Kalimantan;Pelaihari;11;135
+366;Kabupaten Tangerang;Banten;Jawa;Tigaraksa;0;0
+367;Kabupaten Tanggamus;Lampung;Sumatera;Kota Agung;0;0
+368;Kabupaten Tanjung Jabung Barat;Jambi;Sumatera;Kuala Tungkal;0;0
+369;Kabupaten Tanjung Jabung Timur;Jambi;Sumatera;Muara Sabak;0;0
+370;Kabupaten Tapanuli Selatan;Sumatera Utara;Sumatera;Sipirok;0;0
+371;Kabupaten Tapanuli Tengah;Sumatera Utara;Sumatera;Pandan;0;0
+372;Kabupaten Tapanuli Utara;Sumatera Utara;Sumatera;Tarutung;0;0
+373;Kabupaten Tapin;Kalimantan Selatan;Kalimantan;Rantau;12;131
+374;Kabupaten Tasikmalaya;Jawa Barat;Jawa;Singaparna;0;0
+375;Kabupaten Tebo;Jambi;Sumatera;Muara Tebo;0;0
+376;Kabupaten Tegal;Jawa Tengah;Jawa;Slawi;0;0
+377;Kabupaten Teluk Bintuni;Papua Barat;Kepulauan Maluku;Bintuni;0;0
+378;Kabupaten Teluk Wondama;Papua Barat;Kepulauan Maluku;Rasiei;0;0
+379;Kabupaten Temanggung;Jawa Tengah;Jawa;Temanggung;0;0
+380;Kabupaten Timor Tengah Selatan;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Soe;0;0
+381;Kabupaten Timor Tengah Utara;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Kefamenanu;0;0
+382;Kabupaten Toba Samosir;Sumatera Utara;Sumatera;Balige;0;0
+383;Kabupaten Tojo Una-Una;Sulawesi Tengah;Sulawesi;Ampana;0;0
+384;Kabupaten Toli-Toli;Sulawesi Tengah;Sulawesi;Toli-Toli;0;0
+385;Kabupaten Tolikara;Papua;Kepulauan Maluku;Karubaga;0;0
+386;Kabupaten Toraja Utara;Sulawesi Selatan;Sulawesi;Rantepao;0;0
+387;Kabupaten Trenggalek;Jawa Timur;Jawa;Trenggalek;0;0
+388;Kabupaten Tuban;Jawa Timur;Jawa;Tuban;0;0
+389;Kabupaten Tulang Bawang Barat;Lampung;Sumatera;Tulang Bawang Tengah;0;0
+390;Kabupaten Tulang Bawang;Lampung;Sumatera;Menggala;0;0
+391;Kabupaten Tulungagung;Jawa Timur;Jawa;Tulungagung;0;0
+392;Kabupaten Wajo;Sulawesi Selatan;Sulawesi;Sengkang;0;0
+393;Kabupaten Wakatobi;Sulawesi Tenggara;Sulawesi;Wangi-Wangi;0;0
+394;Kabupaten Waropen;Papua;Kepulauan Maluku;Botawa;0;0
+395;Kabupaten Way Kanan;Lampung;Sumatera;Blambangan Umpu;0;0
+396;Kabupaten Wonogiri;Jawa Tengah;Jawa;Wonogiri;0;0
+397;Kabupaten Wonosobo;Jawa Tengah;Jawa;Wonosobo;0;0
+398;Kabupaten Yahukimo;Papua;Kepulauan Maluku;Sumohai;0;0
+399;Kabupaten Yalimo;Papua;Kepulauan Maluku;Elelim;0;0
+400;Kota Ambon;Maluku;Kepulauan Maluku;-;0;0
+401;Kota Balikpapan;Kalimantan Timur;Kalimantan;-;0;0
+402;Kota Banda Aceh;Aceh;Sumatera;-;9;80
+403;Kota Bandar Lampung;Lampung;Sumatera;-;0;0
+404;Kota Bandung;Jawa Barat;Jawa;Bandung;0;0
+405;Kota Banjar;Jawa Barat;Jawa;Banjar;0;0
+406;Kota Banjarbaru;Kalimantan Selatan;Kalimantan;Banjarbaru Kota;5;50
+407;Kota Banjarmasin;Kalimantan Selatan;Kalimantan;Banjarmasin;5;20
+408;Kota Batam;Kepulauan Riau;Sumatera;-;0;0
+409;Kota Batu;Jawa Timur;Jawa;-;0;0
+410;Kota Bau-Bau;Sulawesi Tenggara;Sulawesi;-;0;0
+411;Kota Bekasi;Jawa Barat;Jawa;Bekasi;0;0
+412;Kota Bengkulu;Bengkulu;Sumatera;-;0;0
+413;Kota Bima;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;-;0;0
+414;Kota Binjai;Sumatera Utara;Sumatera;Binjai Kota;0;0
+415;Kota Bitung;Sulawesi Utara;Sulawesi;-;0;0
+416;Kota Blitar;Jawa Timur;Jawa;-;0;0
+417;Kota Bogor;Jawa Barat;Jawa;Bogor;0;0
+418;Kota Bontang;Kalimantan Timur;Kalimantan;-;0;0
+419;Kota Bukittinggi;Sumatera Barat;Sumatera;Bukittinggi;3;24
+420;Kota Cilegon;Banten;Jawa;-;0;0
+421;Kota Cimahi;Jawa Barat;Jawa;Cimahi;0;0
+422;Kota Cirebon;Jawa Barat;Jawa;Cirebon;0;0
+423;Kota Denpasar;Bali;Kepulauan Nusa Tenggara;-;0;0
+424;Kota Depok;Jawa Barat;Jawa;Depok;0;0
+425;Kota Dumai;Riau;Sumatera;-;0;0
+426;Kota Gorontalo;Gorontalo;Sulawesi;-;0;0
+427;Kota Gunungsitoli;Sumatera Utara;Sumatera;-;0;0
+428;Kota Administrasi Jakarta Barat;Jakarta;Jawa;-;8;56
+429;Kota Administrasi Jakarta Pusat;Jakarta;Jawa;Menteng;8;44
+430;Kota Administrasi Jakarta Selatan;Jakarta;Jawa;-;10;65
+431;Kota Administrasi Jakarta Timur;Jakarta;Jawa;Jatinegara;10;65
+432;Kota Administrasi Jakarta Utara;Jakarta;Jawa;Koja;6;32
+433;Kota Jambi;Jambi;Sumatera;Jambi;0;0
+434;Kota Jayapura;Papua;Kepulauan Maluku;-;0;0
+435;Kota Kediri;Jawa Timur;Jawa;-;0;0
+436;Kota Kendari;Sulawesi Tenggara;Sulawesi;-;0;0
+437;Kota Kotamobagu;Sulawesi Utara;Sulawesi;-;0;0
+438;Kota Kupang;Nusa Tenggara Timur;Kepulauan Nusa Tenggara;Kupang;0;0
+439;Kota Langsa;Aceh;Sumatera;-;5;52
+440;Kota Lhokseumawe;Aceh;Sumatera;-;4;67
+441;Kota Lubuklinggau;Sumatera Selatan;Sumatera;-;0;0
+442;Kota Madiun;Jawa Timur;Jawa;-;0;0
+443;Kota Magelang;Jawa Tengah;Jawa;-;0;0
+444;Kota Makassar;Sulawesi Selatan;Sulawesi;-;0;0
+445;Kota Malang;Jawa Timur;Jawa;-;0;0
+446;Kota Manado;Sulawesi Utara;Sulawesi;-;0;0
+447;Kota Mataram;Nusa Tenggara Barat;Kepulauan Nusa Tenggara;-;0;0
+448;Kota Medan;Sumatera Utara;Sumatera;-;0;0
+449;Kota Metro;Lampung;Sumatera;-;0;0
+450;Kota Mojokerto;Jawa Timur;Jawa;-;0;0
+451;Kota Padang;Sumatera Barat;Sumatera;Padang;11;104
+452;Kota Padangpanjang;Sumatera Barat;Sumatera;Padangpanjang;2;16
+453;Kota Padangsidempuan;Sumatera Utara;Sumatera;-;0;0
+454;Kota Pagar Alam;Sumatera Selatan;Sumatera;-;0;0
+455;Kota Palangka Raya;Kalimantan Tengah;Kalimantan;-;0;0
+456;Kota Palembang;Sumatera Selatan;Sumatera;-;0;0
+457;Kota Palopo;Sulawesi Selatan;Sulawesi;-;0;0
+458;Kota Palu;Sulawesi Tengah;Sulawesi;-;0;0
+459;Kota Pangkal Pinang;Kepulauan Bangka Belitung;Sumatera;-;0;0
+460;Kota Parepare;Sulawesi Selatan;Sulawesi;-;0;0
+461;Kota Pariaman;Sumatera Barat;Sumatera;Pariaman;4;71
+462;Kota Pasuruan;Jawa Timur;Jawa;-;0;0
+463;Kota Payakumbuh;Sumatera Barat;Sumatera;Payakumbuh;5;76
+464;Kota Pekalongan;Jawa Tengah;Jawa;-;0;0
+465;Kota Pekanbaru;Riau;Sumatera;-;0;0
+466;Kota Pematangsiantar;Sumatera Utara;Sumatera;-;0;0
+467;Kota Pontianak;Kalimantan Barat;Kalimantan;-;0;0
+468;Kota Prabumulih;Sumatera Selatan;Sumatera;-;0;0
+469;Kota Probolinggo;Jawa Timur;Jawa;-;0;0
+470;Kota Sabang;Aceh;Sumatera;-;2;18
+471;Kota Salatiga;Jawa Tengah;Jawa;-;0;0
+472;Kota Samarinda;Kalimantan Timur;Kalimantan;-;0;0
+473;Kota Sawahlunto;Sumatera Barat;Sumatera;Sawahlunto;4;37
+474;Kota Semarang;Jawa Tengah;Jawa;-;0;0
+475;Kota Serang;Banten;Jawa;-;0;0
+476;Kota Sibolga;Sumatera Utara;Sumatera;-;0;0
+477;Kota Singkawang;Kalimantan Barat;Kalimantan;-;0;0
+478;Kota Solok;Sumatera Barat;Sumatera;Solok;2;13
+479;Kota Sorong;Papua Barat;Kepulauan Maluku;-;0;0
+480;Kota Subulussalam;Aceh;Sumatera;-;5;74
+481;Kota Sukabumi;Jawa Barat;Jawa;Cisaat;0;0
+482;Kota Sungai Penuh;Jambi;Sumatera;Sungai Penuh;0;0
+483;Kota Surabaya;Jawa Timur;Jawa;-;0;0
+484;Kota Surakarta;Jawa Tengah;Jawa;-;0;0
+485;Kota Tangerang Selatan;Banten;Jawa;Ciputat;0;0
+486;Kota Tangerang;Banten;Jawa;-;0;0
+487;Kota Tanjung Pinang;Kepulauan Riau;Sumatera;-;0;0
+488;Kota Tanjungbalai;Sumatera Utara;Sumatera;-;0;0
+489;Kota Tarakan;Kalimantan Utara;Kalimantan;-;0;0
+490;Kota Tasikmalaya;Jawa Barat;Jawa;Tasikmalaya;0;0
+491;Kota Tebing Tinggi;Sumatera Utara;Sumatera;-;0;0
+492;Kota Tegal;Jawa Tengah;Jawa;-;0;0
+493;Kota Ternate;Maluku Utara;Kepulauan Maluku;Ternate;0;0
+494;Kota Tidore Kepulauan;Maluku Utara;Kepulauan Maluku;Soasiu;0;0
+495;Kota Tomohon;Sulawesi Utara;Sulawesi;-;0;0
+496;Kota Tual;Maluku;Kepulauan Maluku;-;0;0
+497;Kota Yogyakarta;Yogyakarta;Jawa;Kecamatan Umbulharjo;0;0
