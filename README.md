@@ -4,7 +4,7 @@ This repository contains some coursework and personal projects. Mostly written i
 
 IDE that used in this repository:
 - MATLAB 2016a 64-bit
-- Anaconda 2-4.1.1 64-bit (all projects are using built in Spyder 2.3.9)
+- Anaconda 2-4.1.1 64-bit (some projects are using built in Jupyter Notebook, the rest Spyder 2.3.9)
 
 You are free to download and modify this repository as long as you omit my name and the address of this repository.
 
