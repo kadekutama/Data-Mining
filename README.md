@@ -1,10 +1,10 @@
 # Data-Mining
 
-This repository contains some coursework and personal projects. Mostly written in the programming language MATLAB and Python 2.7.
+This repository contains some coursework and personal projects. Mostly written in the programming language MATLAB and Python 3.5.2.
 
 IDE that used in this repository:
 - MATLAB 2016a 64-bit
-- Anaconda 2-4.1.1 64-bit (some projects are using built in Jupyter Notebook, the rest Spyder 2.3.9)
+- Anaconda 3-4.2.0 64-bit (some projects are using built in Jupyter Notebook, the rest Spyder 3.0.0)
 
 You are free to download and modify this repository as long as you omit my name and the address of this repository.
 
